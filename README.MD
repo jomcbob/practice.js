@@ -1,0 +1,1 @@
+this repo is to help me learn Javascript I will be useing this repo to have a good place to put all my practice work and do some hands-on codeing
